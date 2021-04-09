@@ -26,4 +26,4 @@ Once you've tagged a camera successfully, you'll get a 2-step warn tone as you a
 - Press F9 to pause the program for 1 minute.
 
 ## Kaspersky-Scan 
-<img align="right" width="400" height="300" src="https://user-images.githubusercontent.com/37580234/114211888-7b090c00-9961-11eb-99d7-a03a913b3809.png">
+<img align="center" width="400" height="300" src="https://user-images.githubusercontent.com/37580234/114211888-7b090c00-9961-11eb-99d7-a03a913b3809.png">
